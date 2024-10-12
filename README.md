@@ -17,7 +17,7 @@ If you want to learn more. Contact Me!
 
 <h1></h1>
 
-<h3 style= "font-size: 20px;"></h3>
+<h3 style= "font-size: 20px;">Skills</h3>
 <!--
 **CreefordSanchez/CreefordSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
