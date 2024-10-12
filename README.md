@@ -4,11 +4,16 @@
   
 ## About me
 
-Hello! My name is Creeford Sanchez and i'm a software developer in winnipeg Manitoba<br>
 
-I like building creative and responsive software apps and other side projects for fun. I'm always motivated in finding new things to learn and trying things out to expand my knowleadge in field of coding.
+Hello! My name is Creeford Sanchez, and I am a software developer in Winnipeg, Manitoba. I specialize in innovative and responsive software applications, which I enjoy making for people to use! I also love diving into side projects for fun, where I can explore new technologies and experiment with various programming techniques.
 
+I am always driven by a strong desire to learn. Whether it's mastering a programming language, exploring a fresh development framework, or staying updated on the latest trends in the tech industry, I'm always finding opportunities to expand my knowledge and grow as a developer. <br>
 
+I'm really obsessed in finding problem solving and tackling new challenges and I enjoy finding creative solutions that push the boundaries of what's possible in coding. <br>
+
+If you want to learn more. Contact Me!
+
+-Signing out
 
 <!--
 **CreefordSanchez/CreefordSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
