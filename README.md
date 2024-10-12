@@ -4,7 +4,9 @@
   
 ## About me
 
-Hello! My name is Creeford Sanchez and i'm a software developer in winnipeg Manitoba with 5 years of coding experience as a self tought learner and a student. <br>
+Hello! My name is Creeford Sanchez and i'm a software developer in winnipeg Manitoba<br>
+
+I like building creative and responsive software apps and other side projects for fun. I'm always motivated in finding new things to learn and trying things out to expand my knowleadge in field of coding.
 
 
 
