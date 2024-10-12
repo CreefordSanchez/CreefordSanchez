@@ -4,6 +4,10 @@
   
 ## About me
 
+Hello! My name is Creeford Sanchez and i'm a software developer in winnipeg Manitoba with 5 years of coding experience as a self tought learner and a student. <br>
+
+
+
 <!--
 **CreefordSanchez/CreefordSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
