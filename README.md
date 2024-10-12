@@ -2,7 +2,7 @@
 <img style="width: 100%; height: 50vh; object-fit: cover;" src="./pexels-pixabay-219692.jpg">
   
   
-## Hi there 👋
+## About me
 
 <!--
 **CreefordSanchez/CreefordSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
