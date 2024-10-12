@@ -1,4 +1,6 @@
-<img src="./pexels-pixabay-219692.jpg">
+
+<img style="width: 100%; height: 50vh;" src="./pexels-pixabay-219692.jpg">
+  
 ## Hi there 👋
 
 <!--
