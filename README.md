@@ -5,9 +5,9 @@
 ## About me
 
 
-Hello! My name is Creeford Sanchez, and I am a software developer in Winnipeg, Manitoba. I specialize in innovative and responsive software applications, which I enjoy making for people to use! I also love diving into side projects for fun, where I can explore new technologies and experiment with various programming techniques.
+Hello! My name is Creeford Sanchez, and I am a software developer in Winnipeg, Manitoba. <br>
 
-I am always driven by a strong desire to learn. Whether it's mastering a programming language, exploring a fresh development framework, or staying updated on the latest trends in the tech industry, I'm always finding opportunities to expand my knowledge and grow as a developer. <br>
+I specialize in innovative and responsive software applications, which I enjoy making for people to use! I also love diving into side projects for fun, where I can explore new technologies and experiment with various programming techniques. <br>
 
 I'm really obsessed in finding problem solving and tackling new challenges and I enjoy finding creative solutions that push the boundaries of what's possible in coding. <br>
 
