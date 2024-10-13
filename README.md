@@ -19,3 +19,6 @@ If you want to learn more. Contact Me!
 
 <h3 style= "font-size: 20px;">My Skills</h3>
 <img src="./rd-css.png">
+<img src="./rd-js.png">
+<img src="./rd-java.png">
+<img src="./rd-html.png">
