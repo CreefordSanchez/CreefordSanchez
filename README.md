@@ -18,9 +18,9 @@ If you want to learn more. Contact Me!
 <h1></h1>
 
 <h3 style= "font-size: 20px;">My Skills</h3>
-<p style="display:flex;">
+<p align="center">
 <img src="./rm-css.png">
-<img src="./rm-java.png">
 <img src="./rd-html.png">
+<img src="./rm-java.png">
 <img src="./rm-js.png">
 </p>
