@@ -27,19 +27,14 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 <img src="./rm-js.png">
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="./rm-css.png" alt="CSS" width="100">
-      <img src="./rd-html.png" alt="HTML" width="100">
-      <img src="./rm-java.png" alt="Java" width="100">
-      <img src="./rm-js.png" alt="JavaScript" width="100">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true" alt="GitHub Stats">
-    </td>
-  </tr>
-</table>
+| ![CSS](./rm-css.png) | ![HTML](./rd-html.png) | ![Java](./rm-java.png) | ![JavaScript](./rm-js.png) |
+| :-------------------: | :--------------------: | :--------------------: | :------------------------: |
+| CSS                  | HTML                  | Java                  | JavaScript                |
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true) |
+| :------------------------------------------------------------------------------------: |
+| GitHub Stats                                                                          |
+
 
 
 <h1></h1>
