@@ -28,6 +28,8 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 </p>
 
 <h1></h1>
+
+<h3 style= "font-size: 20px;">Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true" alt="GitHub Stats">
 </div>
