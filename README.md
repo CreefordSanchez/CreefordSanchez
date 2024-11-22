@@ -1,5 +1,5 @@
 
-<img style="width: 100%; height: 40vh; object-fit: cover;" src="./pexels-pixabay-219692.jpg">
+<img style="width: 100%; object-fit: cover;" src="./pexels-pixabay-219692.jpg">
   
   
 ## About me
