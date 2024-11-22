@@ -27,12 +27,19 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 <img src="./rm-js.png">
 </p>
 
+<div style= "display: flex;">
+  <div>
+    <img src="./rm-css.png">
+    <img src="./rd-html.png">
+    <img src="./rm-java.png">
+    <img src="./rm-js.png">
+  </div>
+   <img src="https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true" alt="GitHub Stats">
+</div>
 <h1></h1>
 
 <h3 style= "font-size: 20px;">Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true" alt="GitHub Stats">
-</div>
+
 
 
 
