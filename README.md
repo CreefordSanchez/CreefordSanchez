@@ -26,3 +26,6 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 <img src="./rm-java.png">
 <img src="./rm-js.png">
 </p>
+
+<h1></h1>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
