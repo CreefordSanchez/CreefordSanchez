@@ -29,10 +29,8 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 
 <h1></h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=tokyonight&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true" alt="GitHub Stats">
 </div>
-
-![tokyonight][tokyonight]
 
 [tokyonight]: https://github-readme-stats.vercel.app/api?username=CreefordSanchez&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
 
