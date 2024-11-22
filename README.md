@@ -30,7 +30,8 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 <h1></h1>
 
 <h3 style= "font-size: 20px;">Stats</h3>
-
+<img  src="https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true" alt="GitHub Stats">
+    
 
 
 
