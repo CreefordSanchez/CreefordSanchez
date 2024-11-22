@@ -28,9 +28,8 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 </p>
 
 <h1></h1>
-<div style= "display: flex; justify-content: center;">
+
   ![tokyonight][tokyonight]
-</div>
 
 [tokyonight]: https://github-readme-stats.vercel.app/api?username=CreefordSanchez&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
 
