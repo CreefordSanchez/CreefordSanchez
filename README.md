@@ -28,7 +28,11 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 </p>
 
 <h1></h1>
+## Available Themes
 ![tokyonight][tokyonight]
 
 [tokyonight]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
+
+
+Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
 
