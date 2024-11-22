@@ -28,8 +28,6 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 </p>
 
 | ![CSS](./rm-css.png) | ![HTML](./rd-html.png) | ![Java](./rm-java.png) | ![JavaScript](./rm-js.png) |
-| :-------------------: | :--------------------: | :--------------------: | :------------------------: |
-| CSS                  | HTML                  | Java                  | JavaScript                |
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true) |
 | :------------------------------------------------------------------------------------: |
