@@ -35,6 +35,3 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 
 
 [add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
-
-Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
-
