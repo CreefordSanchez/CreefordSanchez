@@ -34,7 +34,7 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app
 | GitHub Stats                                                                          |
 
 
-| | | |
+| | 
 | :--: | :--: |
 
 | ![CSS](./rm-css.png) | ![HTML](./rd-html.png) |
