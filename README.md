@@ -1,9 +1,7 @@
-
-<img style="width: 100%; height: 25vh; object-fit: cover;" src="./pexels-pixabay-219692.jpg">
+<img style="width: 100%; height: 25vh; object-fit: cover;" src="./img/banner.jpg">
   
   
 ## About me
-
 
 Hello! My name is Creeford Sanchez, and I am a software developer in Winnipeg, Manitoba. <br>
 
@@ -17,6 +15,7 @@ If you want to learn more. Contact Me!
 
 <br><br>
 Visit my porfolio website! https://creeford-sanchez.netlify.app/
+
 <h1></h1>
 
 <h3 style= "font-size: 20px;">My Skills</h3>
@@ -31,7 +30,3 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app/
 
 <h3 style= "font-size: 20px;">Stats</h3>
 <img style="width: 450px;" src="https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true" alt="GitHub Stats">
-    
-
-
-
