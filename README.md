@@ -16,17 +16,13 @@ If you want to learn more. Contact Me!
 <br><br>
 Visit my porfolio website! https://creeford-sanchez.netlify.app/
 
-<h1></h1>
+## My Skills
 
-<h3 style= "font-size: 20px;">My Skills</h3>
-<p align="center">
-<img src="./rm-css.png">
-<img src="./rd-html.png">
-<img src="./rm-java.png">
-<img src="./rm-js.png">
-</p>
+<img style="height: 30px;" src="./rm-css.png">
+<img style="height: 30px;" src="./rd-html.png">
+<img style="height: 30px;" src="./rm-java.png">
+<img style="height: 30px;" src="./rm-js.png">
 
-<h1></h1>
+## Stats
 
-<h3 style= "font-size: 20px;">Stats</h3>
 <img style="width: 450px;" src="https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true" alt="GitHub Stats">
