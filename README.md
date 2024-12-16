@@ -1,4 +1,4 @@
-<img style="width: 100%; height: 25vh; object-fit: cover;" src="./img/banner.jpg">
+<img style="width: 100%; height: 25vh; background-size: cover; ba" src="./img/banner.jpg">
   
   
 ## About me
@@ -18,11 +18,14 @@ Visit my porfolio website! https://creeford-sanchez.netlify.app/
 
 ## My Skills
 
-<img style="height: 30px;" src="./rm-css.png">
-<img style="height: 30px;" src="./rd-html.png">
-<img style="height: 30px;" src="./rm-java.png">
-<img style="height: 30px;" src="./rm-js.png">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
 ## Stats
 
 <img style="width: 450px;" src="https://github-readme-stats.vercel.app/api?username=CreefordSanchez&theme=tokyonight&show_icons=true" alt="GitHub Stats">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreefordSanchez&layout=compact)
