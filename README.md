@@ -1,4 +1,4 @@
-<img style="width: 100%; height: 30vh;" src="./img/banner.jpg">
+<img style="width: 100%; " src="./img/banner.jpg">
   
   
 ## About me
